@@ -184,4 +184,4 @@ git clone https://ashfaque-9x@bitbucket.org/vtechbox/registration-app.git
 
 4) eksctl delete cluster virtualtechbox-cluster --region ap-south-1     OR    eksctl delete cluster --region=ap-south-1 --name=virtualtechbox-cluster              ///Delete EKS Cluster.
 
-5) terraform destroy                         ///Delete EC2 Instance with below Terraform Command.
+5) terraform destroy                         //Delete EC2 Instance with below Terraform Command.
