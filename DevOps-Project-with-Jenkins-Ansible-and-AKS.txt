@@ -1,4 +1,4 @@
-################################################################### Jenkins Installation on Ubuntu #########################################################################
+################################################################### Jenkins Installation on Ubuntu ########################################################################
 $ sudo apt update
 $ sudo apt install default-jdk
 $ update-alternatives --config java    //To find out where apt installed Java on Ubuntu
